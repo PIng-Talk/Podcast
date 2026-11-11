@@ -1,0 +1,7 @@
+{
+    "bandwidth_chart": "Memories comparison - bandwidth.png",
+    "capacity_chart": "Memories comparison - capacity.png",
+    "latency_chart": "Memories comparison - latency_ns.png",
+    "radar_chart": "Memories comparison - radar_chart.png",
+    "hbm_cost_chart": "Memories comparison - cost_hbm_usd.png"
+}
